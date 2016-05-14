@@ -1,0 +1,110 @@
+body {
+    background-color: #0174DF;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.Botones {
+    background-color: #013ADF;
+   
+}
+#boton1 {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 15;
+    background-color: green;
+    color: white;
+    font-family: cursive;
+    font-weight: bold;
+    border-radius: 10px;
+    font:large bold italic;
+    border-color: green
+}
+#boton2 {
+     margin-left: 1145px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#titulos{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+.abajo{
+    display: flex;
+    background-color: gray;
+    justify-content: space-around;
+    margin-top: 0px;
+}
+.t1{
+    background-color: red;
+    border-radius: 5px;
+   padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+}
+#texto1{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+}
+.contenedor1{
+    flex-grow: 2;
+    margin-bottom: 50px;
+    margin-top: 30px;
+        
+}
+.contenedor2{
+    flex-grow: 2;
+     margin-bottom: 50px;
+    margin-top: 30px;
+        
+    
+}
+.contenedor3{
+    flex-grow: 2;
+     margin-bottom: 50px;
+    margin-top: 30px;
+       
+    
+}
+.Central {
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.central1{
+    flex-grow: 2;
+    background-color: crimson;
+    
+
+}
+.central2{
+    flex-grow: 0.5
+}
+#titulocentral{
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+    font-style: italic;
+  
+  
+}
+#imagenlogo{
+   height: 423px;
+    width: 587px;
+    padding-left: 0px;
+    padding-right: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
